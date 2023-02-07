@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://binaryxd.com/index.html</loc>
-    <lastmod>2023-02-02</lastmod>
+    <loc>http://binaryxd.com/index.html</loc>
+    <lastmod>2023-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/laptop-png-6759%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2045%20%E2%80%93%201673x377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2046%20%E2%80%93%201673x377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2047%20%E2%80%93%201673x377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2044%20%E2%80%93%201673x377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2041%20%E2%80%93%201@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/211876-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2042%20%E2%80%93%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/pasted-svg-670x1480.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2046%20%E2%80%93%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2045%20%E2%80%93%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binaryxd.com/images/component%2047%20%E2%80%93%201.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://binaryxd.com/assets/laoding.gif</loc>
+    <lastmod>2021-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://binaryxd.com/assets/video-(6).mp4</loc>
+    <lastmod>2023-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

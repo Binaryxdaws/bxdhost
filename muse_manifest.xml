@@ -1,32 +1,334 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="binaryxd.com" resolutions="1x" timestamp="1675316672986">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="binaryxd.com" resolutions="1x" timestamp="1675749908212">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3881423152" ref="index"/>
-    <file name="nomq_index.css" crc="3771479131" ref="index"/>
+    <file name="index.css" crc="34657025" ref="index"/>
+    <file name="nomq_index.css" crc="319464462" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="laoding.gif" crc="21032699" seo="true" mt="1629475212000"/>
+    <file name="video-(6).mp4" crc="3861707725" seo="true" mt="1675656275000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u2392.php" crc="62467582" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="4691501_telegram_icon.png" crc="323167097" ref="index">
+    <file name="pexels-julia-volk-5273640.jpg" crc="4119778781" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-pixabay-258455.jpg" crc="3808248654" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-jose-francisco-fernandez-saura-802024.jpg" crc="3777439601" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1644.png" crc="4220008866" ref="index"/>
+    <file name="u1644-r.png" crc="3820778431" ref="index"/>
+    <file name="u1645.png" crc="2768442" ref="index"/>
+    <file name="u1645-r.png" crc="3836352349" ref="index"/>
+    <file name="u1646-4.png" crc="4129328580" ref="index"/>
+    <file name="pexels-aleksandar-pasaric-2603464.jpg" crc="4202799450" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 52 – 1@2x-u949-fr.png" crc="137718334" ref="index"/>
+    <file name="groups.png" crc="3812823355" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8546987_slack_hash_icon.png" crc="1688544" ref="index">
+    <file name="7067468-512.png" crc="426439381" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8679470_instagram_icon.png" crc="4232558825" ref="index">
+    <file name="wallet.png" crc="306014857" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="4511306-512.png" crc="3806719551" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico@2x.png" crc="450674644" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laptop-png-6759 (1).png" crc="245857434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 45 – 1673x377.png" crc="135802553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 46 – 1673x377.png" crc="3893136570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 47 – 1673x377.png" crc="3764622931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 44 – 1673x377.png" crc="4214735108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 41 – 1@2x.png" crc="502458974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="211876-512.png" crc="174833323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_6amamsifhotp9xybudqk4a.jpg" crc="4023211613" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office_blurx1.jpg" crc="450722371" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-ave-calvar-martinez-3010311.jpg" crc="3844427548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="space background p1 3.jpg" crc="273464453" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="208781335" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter_c.png" crc="3825609025" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="216394-512.png" crc="4102254399" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin_c.png" crc="294218873" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="4132559982" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_c.png" crc="259339918" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ad3581384b9dcbd65639f107e95fa1cc.jpg" crc="3971573017" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile.jpg" crc="3884302392" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5caa730d70ac9b0da0e8dcdcb6543cbf.jpg" crc="4179672377" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="45eff6467ed3bc90ea480123566e0f0b.jpg" crc="331586240" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 42 – 2.png" crc="185891053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-christina-morillo-1181366.jpg" crc="469547275" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-670x1480.svg" crc="476177710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 670x1480_poster_.png" crc="3860507631" ref="index"/>
+    <file name="pexels-element-digital-1550337.jpg" crc="403095777" ref="index"/>
+    <file name="pexels-thisisengineering-3861964.jpg" crc="3931747161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="space cloud png p1 3.png" crc="180645816" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.png" crc="4029419418" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-christina-morillo-1181216.jpg" crc="33722757" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="swap.jpg" crc="3928631815" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-cottonbro-3584970.jpg" crc="4164511541" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-andrew-neel-4134787.jpg" crc="3886291846" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="space background p1 3-u1923.png" crc="4203059591" ref="index"/>
+    <file name="space background p1 3-u1925.png" crc="4203059591" ref="index"/>
+    <file name="space background p1 3-u1927.png" crc="4260387893" ref="index"/>
+    <file name="groups2.png" crc="4071189929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 46 – 1.png" crc="52149427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 41 – 1-u1934.png" crc="192293056" ref="index"/>
+    <file name="component 45 – 1.png" crc="3968314269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 47 – 1.png" crc="528703970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 44 – 1-u1940.png" crc="3877824730" ref="index"/>
+    <file name="icos.png" crc="223144706" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toknswap.png" crc="4188916456" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallet2.png" crc="3912185823" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram.png" crc="321791453" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram_c.png" crc="298005984" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-julia-volk-5273640-u1640-fr.jpg" crc="478807189" ref="index"/>
+    <file name="pexels-pixabay-258455-u1641-fr.jpg" crc="263791626" ref="index"/>
+    <file name="pexels-jose-francisco-fernandez-saura-802024-u1642-fr.jpg" crc="3803597872" ref="index"/>
+    <file name="u16442.png" crc="4220008866" ref="index"/>
+    <file name="u1644-r2.png" crc="3899730974" ref="index"/>
+    <file name="u16452.png" crc="4208902688" ref="index"/>
+    <file name="u1645-r2.png" crc="469200374" ref="index"/>
+    <file name="u1646-42.png" crc="4129328580" ref="index"/>
+    <file name="pexels-aleksandar-pasaric-2603464-u1170-fr.jpg" crc="4009618465" ref="index"/>
+    <file name="1_6amamsifhotp9xybudqk4a-u1361-fr.jpg" crc="4156986807" ref="index"/>
+    <file name="office_blurx1-u1362-fr.jpg" crc="264028701" ref="index"/>
+    <file name="pexels-ave-calvar-martinez-3010311-u1363-fr.jpg" crc="4220285160" ref="index"/>
+    <file name="space background p1 3-u1364-fr.jpg" crc="32559856" ref="index"/>
+    <file name="pexels-thisisengineering-3861964-u1916-fr.jpg" crc="441447128" ref="index"/>
+    <file name="pexels-christina-morillo-1181216-u1918-fr.jpg" crc="3972229236" ref="index"/>
+    <file name="swap-u1920-fr.jpg" crc="3957719655" ref="index"/>
+    <file name="pexels-cottonbro-3584970-u1921-fr.jpg" crc="4013040854" ref="index"/>
+    <file name="pexels-andrew-neel-4134787-u1922-fr.jpg" crc="380447465" ref="index"/>
+    <file name="space background p1 3-u19232.png" crc="4203059591" ref="index"/>
+    <file name="space background p1 3-u19252.png" crc="4203059591" ref="index"/>
+    <file name="space background p1 3-u19272.png" crc="4260387893" ref="index"/>
+    <file name="component 41 – 1-u19342.png" crc="192293056" ref="index"/>
+    <file name="component 44 – 1-u19402.png" crc="3877824730" ref="index"/>
+    <file name="pexels-christina-morillo-1181366-u2595-fr.jpg" crc="437465349" ref="index"/>
   </folder>
-  <file name="index.html" crc="4162110187" seo="true" mt="1675315305992" redirect="true"/>
+  <file name="index.html" crc="4184537472" seo="true" mt="1675749900793" redirect="true"/>
 </manifest>
